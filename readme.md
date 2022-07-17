@@ -1,4 +1,4 @@
-Add Api and apiKeys in Config JS
+# Add Api and apiKeys in Config JS
 
 1. Sign Up comechat and get keys
 2. Sign Up Firebase and get keys 
